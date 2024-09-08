@@ -9,7 +9,7 @@ const suggetionSechema=new mongoose.Schema({
         type:String,
         required:true
     },
-    date:{
+    date:{ 
         type:String,
         required:true
     }
